@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from Shapes import Circle, Square, Rectangle
 
-
 def main():
 
     TEXT = """
